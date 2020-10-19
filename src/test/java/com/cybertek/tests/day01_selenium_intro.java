@@ -12,6 +12,7 @@ public class day01_selenium_intro {
         driver.get("https://facebook.com");
         String str1 = "omer";
         System.out.println(str1);
+        // test
 
 
     }
