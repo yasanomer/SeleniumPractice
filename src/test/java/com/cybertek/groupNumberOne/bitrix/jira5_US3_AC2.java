@@ -1,4 +1,4 @@
-package com.groupNumberOne.bitrix;
+package com.cybertek.groupNumberOne.bitrix;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
 import org.openqa.selenium.By;
