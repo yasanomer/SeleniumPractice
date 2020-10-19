@@ -10,5 +10,9 @@ public class day01_selenium_intro {
         WebDriverManager.chromedriver().setup();
         WebDriver driver = new ChromeDriver();
         driver.get("https://facebook.com");
+        String str1 = "Ivana";
+        System.out.println(str1);
+
+
     }
 }
